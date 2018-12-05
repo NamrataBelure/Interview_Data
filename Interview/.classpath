@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="interview/java/JDBC/lib/|interview/java/JDBC/lib/|interview/java/JDBC/lib/|interview/java/JDBC/libl/|interview/java/ass/FileHandling/file/durga/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/interview/java/JDBC/libl"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/ecj-4.7.3a.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-i18n-ru.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/lib/websocket-api.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
